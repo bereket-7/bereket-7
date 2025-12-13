@@ -1,11 +1,11 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Bereket Honelign</h1>
-<h3 align="center">Senior Full-Stack Developer | Expert in Scalable Architectures from Ethiopia</h3>
+<h3 align="center">Senior Full-Stack Developer | Backend Engineer | API Development, Microservices & Architecture</h3>
 
 ---
 
 <p align="center">
-  Leveraging over <strong>[X] years of experience</strong> to build robust, high-performance, and maintainable software solutions across the entire stack.
+  Leveraging over <strong>[5] years of experience</strong> to build robust, high-performance, and maintainable software solutions across the entire stack.
 </p>
 
 - 🚀 **Core Expertise:** Building and deploying scalable, enterprise-level applications.
