@@ -1,12 +1,24 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Bereket Honelign</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia</h3>
+<h3 align="center">Senior Full-Stack Developer | Expert in Scalable Architectures from Ethiopia</h3>
 
-- 💬 Ask me about **Rest API, Spring boot**
+---
 
+<p align="center">
+  Leveraging over <strong>[X] years of experience</strong> to build robust, high-performance, and maintainable software solutions across the entire stack.
+</p>
+
+- 🚀 **Core Expertise:** Building and deploying scalable, enterprise-level applications.
+- 💻 **Tech Stack Includes:** Modern JavaScript Frameworks (e.g., **React, Vue.js **), Backend Technologies (e.g., **Spring Boot, NestJs, Django, Laravel**), and Database Systems (e.g., **PostgreSQL, MongoDB, MySQL**).
+- 💡 **Key Focus Areas:** Architectural Design, Cloud Deployment (AWS/Azure/GCP), CI/CD Implementation, and leading development teams.
+
+---
+
+### Get in Touch:
+
+- 💬 Ask me about **Full-Stack System Design, Microservices, Performance Optimization, or any of the technologies listed above.**
 - 📫 How to reach me **berekethonelign2@gmail.com**
-
-- ⚡ Fun fact **I am Optimist**
+- ⚡ Fun fact **I am an unwavering Optimist, always seeking the best solution.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
