@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Leveraging over <strong>[5] years of experience</strong> to build robust, high-performance, and maintainable software solutions across the entire stack.
+  Leveraging over <strong>5 years of experience</strong> to build robust, high-performance, and maintainable software solutions across the entire stack.
 </p>
 
 - 🚀 **Core Expertise:** Building and deploying scalable, enterprise-level applications.
