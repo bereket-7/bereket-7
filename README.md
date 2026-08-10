@@ -24,6 +24,25 @@
 
 ---
 
+### GitHub Insights
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bereket-7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=bereket-7&theme=default&hide_border=true&timezone=Africa%2FAddis_Ababa" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket-7&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### Get in touch
 
 - 📧 **Email:** berekethonelign2@gmail.com
