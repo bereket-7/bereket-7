@@ -27,11 +27,6 @@
 ### GitHub Insights
 
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="./profile/streak.svg" alt="GitHub Streak" />
   </a>
